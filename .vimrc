@@ -1,0 +1,9 @@
+set number
+syntax on
+colorscheme industry
+set autoindent
+set tabstop=2
+set expandtab
+set hlsearch
+set mouse=a
+set ruler
