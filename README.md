@@ -6,3 +6,6 @@ Those are my configurations files for:
 - Vim
 - ZSH ([oh-my-zsh](https://ohmyz.sh/))
 
+## Resources
+
+- [DotFiles](https://dotfiles.github.io/)
