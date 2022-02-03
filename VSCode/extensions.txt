@@ -1,0 +1,15 @@
+bradlc.vscode-tailwindcss
+donjayamanne.githistory
+esbenp.prettier-vscode
+kahole.magit
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
+ms-toolsai.jupyter-keymap
+ms-toolsai.jupyter-renderers
+ms-vscode.vscode-typescript-next
+njpwerner.autodocstring
+rust-lang.rust
+sourcery.sourcery
+vscodevim.vim
+yzhang.markdown-all-in-one
