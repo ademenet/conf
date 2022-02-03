@@ -20,6 +20,7 @@ brew install libpq # For psql
 brew install --cask docker
 brew install docker-compose
 brew install --cask beekeeper-studio
+brew install terraform
 
 # Install basic JS environment
 brew install node@14
