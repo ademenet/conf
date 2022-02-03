@@ -13,3 +13,4 @@ rust-lang.rust
 sourcery.sourcery
 vscodevim.vim
 yzhang.markdown-all-in-one
+ms-azuretools.vscode-docker
