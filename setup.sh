@@ -17,6 +17,7 @@ brew install docker
 brew install --cask discord
 brew install postgresql@12
 brew install libpq # For psql
+brew install docker
 
 # Install basic JS environment
 brew install node@14
