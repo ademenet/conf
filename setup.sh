@@ -21,6 +21,7 @@ brew install --cask docker
 brew install docker-compose
 brew install --cask beekeeper-studio
 brew install terraform
+brew install --cask obsidian
 
 # Install basic JS environment
 brew install node@14
