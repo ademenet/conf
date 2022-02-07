@@ -22,6 +22,7 @@ brew install docker-compose
 brew install --cask beekeeper-studio
 brew install terraform
 brew install --cask obsidian
+brew install awscli
 
 # Install basic JS environment
 brew install node@14
