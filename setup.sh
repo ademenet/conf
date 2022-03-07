@@ -23,9 +23,13 @@ brew install --cask beekeeper-studio
 brew install terraform
 brew install --cask obsidian
 brew install awscli
+brew install --cask vlc
+brew install --cask anki
+brew install terraform
 
 # Install basic JS environment
 brew install node@14
+npm i -g npm
 npm i -g yarn
 npm i -g vercel
 
