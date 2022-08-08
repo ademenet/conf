@@ -8,6 +8,7 @@ rsync \
   --exclude "node_modules" \
   --exclude "virt" \
   --exclude "venv" \
+  --exclude "__pycache__" \
   /Users/ademenet/Work \
   /Volumes/ALAIN_HDD/ademenet/ \
   2> /tmp/rsyncErrors.txt
@@ -19,6 +20,7 @@ rsync \
   --exclude "node_modules" \
   --exclude "virt" \
   --exclude "venv" \
+  --exclude "__pycache__" \
   /Users/ademenet/jedha-notes \
   /Volumes/ALAIN_HDD/ademenet/ \
   2> /tmp/rsyncErrors.txt
@@ -29,6 +31,7 @@ rsync \
   --exclude "node_modules" \
   --exclude "virt" \
   --exclude "venv" \
+  --exclude "__pycache__" \
   /Users/ademenet/personal-notes \
   /Volumes/ALAIN_HDD/ademenet/ \
   2> /tmp/rsyncErrors.txt
