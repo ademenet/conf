@@ -31,7 +31,6 @@ brew install docker-compose
 brew install terraform
 brew install awscli
 brew install act # For running Github Actions locally
-brew install terraform
 brew install emacs-mac
 brew install httpie # curl replacement
 
@@ -43,7 +42,9 @@ npm i -g vercel
 
 # Install basic Python environment
 brew install python@3.9
-echo "alias pip=/usr/local/bin/pip3" >> ~/.zshrc
-echo "alias python=/usr/local/bin/python3" >> ~/.zshrc
+# Add Python path to .zshrc
+echo 'export PATH="/usr/local/opt/python3:$PATH"" >> ~/.zshrc
+echo 'alias python="python3"' >> ~/.zshrc
+echo 'alias pip="pip3"' >> /.zshrc
+# Add Poetry
 brew install poetry
-
