@@ -45,6 +45,6 @@ brew install python@3.9
 # Add Python path to .zshrc
 echo 'export PATH="/usr/local/opt/python3:$PATH"" >> ~/.zshrc
 echo 'alias python="python3"' >> ~/.zshrc
-echo 'alias pip="pip3"' >> /.zshrc
+echo 'alias pip="pip3"' >> ~/.zshrc
 # Add Poetry
 brew install poetry
