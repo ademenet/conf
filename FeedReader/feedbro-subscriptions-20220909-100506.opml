@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="DIY" text="DIY">
+      <outline text="RSS" title="RSS" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPFChjpOgkUqckj3378jt5w" htmlUrl="https://www.youtube.com/channel/UCPFChjpOgkUqckj3378jt5w"/>
+      <outline text="RSS" title="RSS" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCflHaa_47QnIfFlKrGG6TIg" htmlUrl="https://www.youtube.com/channel/UCflHaa_47QnIfFlKrGG6TIg"/>
+      <outline text="RSS" title="RSS" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2UT8pPDlUvRbQXTVOf5Ocw" htmlUrl="https://www.youtube.com/channel/UC2UT8pPDlUvRbQXTVOf5Ocw"/>
+      <outline text="RSS" title="RSS" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdt3XohkO4DGjQrqm0gNWDw" htmlUrl="https://www.youtube.com/channel/UCdt3XohkO4DGjQrqm0gNWDw"/>
+  </outline>
+  <outline title="NoCode" text="NoCode">
+      <outline text="La gazette du No-Code" title="La gazette du No-Code" type="rss" 
+            xmlUrl="https://gazette.nocode-france.fr/rss/" htmlUrl="https://gazette.nocode-france.fr/"/>
+  </outline>
+  <outline title="Tech" text="Tech">
+      <outline text="Journal du hacker" title="Journal du hacker" type="rss" 
+            xmlUrl="https://www.journalduhacker.net/newest.rss" htmlUrl="https://www.journalduhacker.net/"/>
+      <outline text="RSS" title="RSS" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMGAkHjsqptanKV4XRNGH1w" htmlUrl="https://www.youtube.com/channel/UCMGAkHjsqptanKV4XRNGH1w"/>
+  </outline>
+</body>
+</opml>
